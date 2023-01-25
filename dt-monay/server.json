@@ -23,6 +23,62 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-01-18T17:24:43.459Z"
+    },
+    {
+      "description": "Livro",
+      "price": 45,
+      "category": "Cate",
+      "type": "income",
+      "createdAt": "2023-01-25T14:58:54.149Z",
+      "id": 4
+    },
+    {
+      "description": "giovanni",
+      "price": 45,
+      "category": "verdad",
+      "type": "income",
+      "createdAt": "2023-01-25T15:01:02.614Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "alimentacao",
+      "type": "income",
+      "createdAt": "2023-01-25T15:08:51.982Z",
+      "id": 6
+    },
+    {
+      "description": "tyty",
+      "price": 565,
+      "category": "f",
+      "type": "income",
+      "createdAt": "2023-01-25T15:33:25.973Z",
+      "id": 7
+    },
+    {
+      "description": "cachorro",
+      "price": 3000,
+      "category": "Animal",
+      "type": "outcome",
+      "createdAt": "2023-01-25T15:33:58.036Z",
+      "id": 8
+    },
+    {
+      "description": "Iogurte de Banana",
+      "price": 500,
+      "category": "Danone",
+      "type": "outcome",
+      "createdAt": "2023-01-25T15:38:55.826Z",
+      "id": 9
+    },
+    {
+      "description": "Urso Polar",
+      "price": 500,
+      "category": "Animal",
+      "type": "outcome",
+      "createdAt": "2023-01-25T15:41:34.199Z",
+      "id": 10
     }
   ]
 }
